@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: b6zs03cqe-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/b6zs03cqe-nodejs
